@@ -1,0 +1,9 @@
+h1:8Afvn2K1VWP+xQyIJtte6rhHzhHY/6Izv98GECvXQpc=
+20240801151025_init.sql h1:08iogYpmO29bUciUYQBPQgiynPt5uN56/woeZQno4mc=
+20240801170831_updated_rewards.sql h1:VudAjBXMCGM1sHRQJff+nC+WX85bg1JDDpsNjWGieeE=
+20240801185449_added_transaction_hash.sql h1:NDVoEAf0OyiTmL3ffsfIbpsSh5XcpxaWW8khjGs+Chw=
+20240802114031_updated_coins_tables.sql h1:yZZ7dmZFf9c4h/5YZtMS/SghLtdX9thvngkgZDDqkno=
+20240802122552_dailySettings_renamed.sql h1:J0t1q2eyTtu87VGQIfmainLpNJDSIwrXJLsY61WLHbg=
+20240802123519_TodayCoins_updated.sql h1:0CxUW4nLENRDCUps47rrXuh+jfHLw9oaHWskQziOgRM=
+20240807094324_added_collected_coins_price.sql h1:JO3qnkUozrMLgKfb1G/kzQ1MP/j7UBTjHxBxaLWwD/E=
+20240807122938_added_reward_id.sql h1:KkUy9W3VHF9nEHjzax4rJPbZjyHf3/ukvkxhHsG6S7k=
